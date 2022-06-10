@@ -1,0 +1,29 @@
+.card {
+    background-color: white;
+    width: 40rem;
+    max-width: 90%;
+    padding: 2rem;
+    margin: 3rem auto;
+    border-radius: 1rem;
+}
+
+.data {
+    margin: 0.5rem 0;
+}
+
+.data label {
+
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.data input {
+    display: block;
+    width: 100%;
+    line-height: 1.5rem;
+    font: inherit;
+}
+
+.data input:focus {
+    outline: none;
+}

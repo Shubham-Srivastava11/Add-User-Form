@@ -1,0 +1,20 @@
+.card-control {
+    background-color: white;
+    width: 40rem;
+    max-width: 90%;
+    padding: 1.5rem;
+    margin: 3rem auto;
+    border-radius: 1rem;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    width: 100%;
+    margin: 0.5rem;
+    border: 1px solid #1f1f1f;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+}
